@@ -1,0 +1,5 @@
+{
+  "name": "무한매수 v2.2",
+  "description": "총 투자금액과 분할 횟수를 설정하고, 매수/매도 이력을 기록하고 관리하는 애플리케이션입니다.",
+  "requestFramePermissions": []
+}
